@@ -10,4 +10,11 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+    //Cách khởi tạo
+    //git init
+    //git add .
+    //git commit -am "a"
+    //git remote add origin https://github.com/tanphu/IntentData1005.git
+    //git push -u origin master
+
 }
